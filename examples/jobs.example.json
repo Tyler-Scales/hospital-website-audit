@@ -1,0 +1,25 @@
+[
+ {
+  "key": "example-hospital.org",
+  "seeds": ["https://www.example-hospital.org/"],
+  "ccns": ["990001"],
+  "cap": 40
+ },
+ {
+  "key": "example-health.org",
+  "seeds": [
+   "https://www.example-health.org/",
+   "https://www.example-health.org/locations/north-campus-hospital",
+   "https://www.example-health.org/locations/south-campus-hospital"
+  ],
+  "ccns": ["990002", "990003"],
+  "cap": 56
+ },
+ {
+  "key": "locations.example-system.org",
+  "seeds": ["https://locations.example-system.org/county-medical-center"],
+  "hosts": ["locations.example-system.org"],
+  "ccns": ["990004"],
+  "cap": 40
+ }
+]

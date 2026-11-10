@@ -1,0 +1,17 @@
+# scan inputs and outputs stay local: they name hospitals and findings
+/roster*.json
+/jobs.json
+/out*/
+/archive_out/
+/data/
+*.html.gz
+summary.json
+domains.json
+history.json
+probe.json
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
