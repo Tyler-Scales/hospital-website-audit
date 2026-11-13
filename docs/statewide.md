@@ -1,4 +1,4 @@
-# Method
+# Statewide audit method (Iowa, November 2026)
 
 This is how a statewide audit runs, start to finish, with what the Iowa run (November 2026) taught about each stage.
 
